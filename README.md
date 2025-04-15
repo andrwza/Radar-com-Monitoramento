@@ -2,19 +2,21 @@
 Radar Arduíno com monitoramento pelo PC
 ###################
 
-*******************
-Link com instruções em vídeo: https://youtu.be/xLisFiPiG5g
-*******************
+<br>
 
-Componentes Utilizados:
+<p>Link com instruções em vídeo: https://youtu.be/xLisFiPiG5g</p>
 
-- 1 Arduíno Uno;
-- 1 Protoboard;
-- 4 Jumpers Macho/Fêmea;
-- 7 Jumpers Macho/Macho;
-- 1 Sensor de Ultrassom HC-SR04;
-- 1 Micro Servo Motor de 9g;
-- Base;
-- 1 Notebook.
+<br>
 
-Link para download do Processing: http://bit.ly/2K2JKx3
+### Componentes Utilizados:
+
+•	1x Arduíno Uno;
+•	1x Protoboard;
+•	4x Jumpers Macho/Fêmea;
+•	7x Jumpers Macho/Macho;
+•	1x Sensor de Ultrassônico HC-SR04;
+•	1x Micro Servo Motor de 9g;
+•	Base para “junta” o Ultrassônico e Servo Motor;
+•	1x Notebook.
+
+<p>Link para download do Processing: http://bit.ly/2K2JKx3</p>
