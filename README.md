@@ -13,7 +13,7 @@
 <li> 7x Jumpers Macho/Macho;</li>
 <li> 1x Sensor de Ultrassônico HC-SR04;</li>
 <li> 1x Micro Servo Motor de 9g;</li>
-<li> Base para “junta” o Ultrassônico e Servo Motor;</li>
+<li> Base para “juntar” o Ultrassônico e Servo Motor;</li>
 <li> 1x Notebook.</li>
 </ul>
 
