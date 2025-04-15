@@ -1,10 +1,8 @@
-<h1>### Radar Arduíno com monitoramento pelo PC</h1>
+<h1>Radar Arduíno com monitoramento pelo PC</h1>
 
 <br>
 
 <p>Link com instruções em vídeo: https://youtu.be/xLisFiPiG5g</p>
-
-<br>
 
 ### Componentes Utilizados:
 
